@@ -6,5 +6,4 @@ In recent years, recommendation systems have played a major role in many online 
 ![alt text](https://github.com/sayeh31/simple-movie-recommender-system-/blob/main/image.png)
 
 
-
 in this repository implementation code of a simple recommender system on the movielense dataset is avalable.

@@ -3,7 +3,7 @@ In recent years, recommendation systems have played a major role in many online 
 
 
 
-https://github.com/sayeh31/simple-movie-recommender-system-/blob/main/image.png
+![alt text]
 
 
 
